@@ -1,8 +1,5 @@
 ### Olá! 👋
 
-<!--
-**ana-arine/ana-arine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Bem-vindo ao meu perfil em construção!
 
 Sou Ana Lúcia Arine, estudante de desenvolvimento para Mobile.  
