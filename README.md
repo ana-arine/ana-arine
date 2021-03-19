@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu perfil em construção!
 
-Sou Ana Lúcia Arine, estudante de desenvolvimento para Mobile.  
+Sou Ana Lúcia Arine, estudante de desenvolvimento Android.  
 
 - 🎓 Formada em Engenharia Ambiental
 - 🔬 Mestrado em Ciências Ambientais
