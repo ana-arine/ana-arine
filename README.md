@@ -1,8 +1,12 @@
-### Olá! 👋
+### Olá!! 👋
 
-Sou Ana Lúcia Arine, estudante de desenvolvimento Android.  
+Estou feliz em ter você aqui no meu perfil! 
 
+- 👩🏻‍Sou Ana Lúcia Arine, atualmente moro em Sorocaba-SP, Brasil 
+- 📱 Estou estudando e aprimorando Desenvolvimento Android com Kotlin  
 - 🎓 Formada em Engenharia Ambiental
 - 🔬 Mestrado em Ciências Ambientais
-- 🖥️ Amante de tecnologia, 🤖 automatizações que facilitam a vida, 🌱 meio ambiente, 🍰 bolos e 🐾 gatos
-- ⚡ Fun fact: Não gosto de calor mas moro em Sorocaba-SP
+- 🗣️ Falo Português (nativo), Espanhol (básico), Inglês (Avançado) e estudando Francês
+- 🖥️ Adoro tecnologia, 🤖 automatizações que facilitam a vida, 🌱 meio ambiente e 🐾 gatos
+- ⚡ Fun fact: sou a louca das plantas! 
+
